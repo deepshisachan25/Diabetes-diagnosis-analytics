@@ -4,8 +4,7 @@ This dataset contains detailed health information for 1,879 patients, each ident
 This dataset is particularly useful for researchers and data scientists interested in studying diabetes. It can be used to identify factors associated with the disease, develop predictive models, and perform statistical analyses.
 
 ## Attributes
-Patient Information
-
+Patient Information includes:
 Patient ID
 Demographic Details
 Lifestyle Factors
@@ -15,11 +14,7 @@ Medications
 Symptoms and Quality of Life
 Environmental and Occupational Exposures
 Health Behaviors
-Diagnosis Information
-
-Diagnosis (Target Variable)
-Patient Information
-Patient ID
+Diagnosis Information: Diagnosis (Target Variable)
 
 PatientID: A unique identifier for each patient, ranging from 6000 to 7878.
 Demographic Details
