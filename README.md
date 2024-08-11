@@ -6,19 +6,12 @@ This dataset is particularly useful for researchers and data scientists interest
 ## Attributes
 Patient Information includes:
 Patient ID
-Demographic Details
-Lifestyle Factors
-Medical History
-Clinical Measurements
-Medications
-Symptoms and Quality of Life
+Demographic Details- Lifestyle Factors, Medical History, Clinical Measurements, Medications, Symptoms and Quality of Life
 Environmental and Occupational Exposures
 Health Behaviors
 Diagnosis Information: Diagnosis (Target Variable)
-
 PatientID: A unique identifier for each patient, ranging from 6000 to 7878.
-Demographic Details
-
+### Demographic Details
 Age: The patients' ages, ranging from 20 to 90 years.
 Gender: Gender of the patients (0 for Male, 1 for Female).
 Ethnicity: The ethnicity of the patients:
